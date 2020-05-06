@@ -1,0 +1,8 @@
+<suite name="Suite1" verbose="1" >
+    <test name="SampleTest" >
+        <classes>
+            <class name="com.aut.tests.FactoryPatternTest" />
+            <class name="com.aut.tests.FactoryPatternTest1" />
+        </classes>
+    </test>
+</suite>
